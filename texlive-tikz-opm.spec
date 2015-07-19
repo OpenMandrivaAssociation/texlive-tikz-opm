@@ -6,7 +6,7 @@
 # catalog-version 0.1.1
 Name:		texlive-tikz-opm
 Version:	0.1.1
-Release:	4
+Release:	5
 Summary:	Typeset OPM diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm
