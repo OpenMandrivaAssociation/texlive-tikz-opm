@@ -1,6 +1,6 @@
 Name:		texlive-tikz-opm
 Version:	32769
-Release:	1
+Release:	2
 Summary:	Typeset OPM diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm
