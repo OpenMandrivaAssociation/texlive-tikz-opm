@@ -3,7 +3,7 @@ Version:	32769
 Release:	2
 Summary:	Typeset OPM diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-opm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-opm.doc.r%{version}.tar.xz
